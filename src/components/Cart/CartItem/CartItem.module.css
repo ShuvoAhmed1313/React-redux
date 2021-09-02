@@ -48,7 +48,7 @@
 
 .cartItem__qty input {
   padding: 10px;
-  margin-left: 0.4rem;
+  margin-left: 0.5rem;
   width: 60px;
   border-radius: 10px;
   border: 1px solid var(--secondary-color);
@@ -61,7 +61,7 @@
   border: 1px solid var(--secondary-color);
   border-radius: 50%;
   cursor: pointer;
-  transition: all ease-in-out 0.7s;
+  transition: all ease-in-out 0.9s;
   outline: none;
 }
 

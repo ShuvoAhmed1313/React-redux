@@ -4,30 +4,39 @@ const INITIAL_STATE = {
   products: [
     {
       id: 1,
-      title: "This is the COOLEST Cube Ever",
+      title: "The BIG cat for Children",
       description:
-        "This cube will keep you busy the entire day and it is very fun to play with",
-      price: 15.0,
+        "This cat will keep you busy the entire day and it is very fun to play with and also dangerous🙂",
+      price: 599.0,
       image:
-        "https://images.unsplash.com/photo-1591991731833-b4807cf7ef94?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/photo-1546182990-dffeafbe841d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1940&q=80"
     },
     {
       id: 2,
-      title: "Large Coffee Cup",
+      title: "ELEPHANT🐘 for pet",
       description:
-        "Get a big cup of coffee every morning before the day starts",
-      price: 20.0,
+        "Get a big elephant in front of your house to impress your crush👩",
+      price: 999.0,
       image:
-        "https://images.unsplash.com/photo-1572119865084-43c285814d63?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80",
+        "https://images.unsplash.com/reserve/RFDKkrvXSHqBaWMMl4W5_Heavy%20company%20by%20Alessandro%20Desantis%20-%20Downloaded%20from%20500px_jpg.jpg?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
     },
     {
       id: 3,
-      title: "Books That CHANGED My Life",
+      title: "Gorilla the friend 👬",
       description:
-        "These books will keep you busy all throughout the entire lockdown and give you some great advise from famous people",
-      price: 150.0,
+        "Don't have any human friend! no problem. buy a gorilla. It's your ancestor which was social unlike u 🦍",
+      price: 750.0,
       image:
-        "https://images.unsplash.com/photo-1512820790803-83ca734da794?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1374&q=80",
+       "https://images.unsplash.com/photo-1463852247062-1bbca38f7805?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1955&q=80"
+    },
+    {
+      id: 4,
+      title: "BUY this rear species🐼",
+      description:
+        "Buy pandas to prove that you are a big fan of Kung FU Panda and have no respect to the environment",
+      price: 299.0,
+      image:
+       "https://images.unsplash.com/photo-1566487097168-e91a4f38bee2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80"
     },
   ],
   cart: [],
